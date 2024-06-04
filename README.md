@@ -9,4 +9,12 @@ Il sito è completamente responsive per mobile tablet e laptop. Realizzato con R
 
 Ottime performace SEO con immagini compresse e formati web adeguati come WebP e Png
 
+
+PER AVVIARE IL PROGETTO:
+-1 APRIRE VISUAL STUDIO CODE O SOFTWARE SIMILE;
+-2 APRIRE IL TERMINALE E DIGITARE: "npm run dev" e premre invio
+-3 FARE CTRL + CLICK SUL htttp:localhost
+-4 PER INTERROMPERE L'ESECUZIONE PREMERE CTRL + C SUL TERMINALE E PREMERE "Y"
+
+
 Free Download & Re-use
